@@ -2,11 +2,11 @@
 
 [![solara logo](https://solara.dev/static/assets/images/logo.svg)](https://solara.dev)
 
+[![PyPI Latest Release](https://img.shields.io/pypi/v/solara.svg)](https://pypi.org/project/solara/)
+
 Come chat with us on [Discord](https://discord.gg/MEpm6sEjdq) to ask questions or share your thoughts or creations!
 
 [![Discord Shield](https://discordapp.com/api/guilds/1106593685241614489/widget.png?style=banner2)](https://discord.gg/MEpm6sEjdq)
-
-
 
 ## Introducing Solara
 
